@@ -7,6 +7,7 @@ Starter code for System Monitor Project in the Object Oriented Programming Cours
 
 Follow along with the classroom lesson to complete the project!
 
+This is how a typical system monitor in Linux looks like!
 ![System Monitor](images/htop.PNG)
 
 ## Udacity Linux Workspace
@@ -35,6 +36,8 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 2. Build the project: `make build`
 
 3. Run the resulting executable: `./build/monitor`
+
+This is my version of how the system monitor will look!
 ![Starting System Monitor](images/my_version.PNG)
 
 4. Follow along with the lesson.
