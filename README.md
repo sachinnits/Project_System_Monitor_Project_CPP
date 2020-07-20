@@ -3,9 +3,7 @@
 NOTE: Here build directory is already made but one who is beginning the project has to use "make build"(details given below) to make the build directory.
 
 
-Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
 
-Follow along with the classroom lesson to complete the project!
 
 This is how a typical system monitor in Linux looks like!
 ![System Monitor](images/htop.PNG)
